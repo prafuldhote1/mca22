@@ -1,0 +1,65 @@
+---
+pipeline{
+agent any
+Environment {
+PATH="$PATH:maven path paste here"
+}
+stages{
+stage('Git Cloning')
+{
+steps
+{
+// Taking code from git repo
+}
+}
+stage('Build the code')
+{
+steps
+{
+// Build our project 
+}
+}
+stage('Test the code')
+{
+steps
+{
+// run the code
+}
+}
+stage('Sonarqube analysis')
+{
+steps
+{
+// Run sonarqube analysis
+}
+}
+stage('Push to dockerhub')
+{
+steps
+{
+// push docker img to Dockerhub/ ECR
+}
+}
+stage('Deploy to k8s')
+{
+steps
+{
+// deploy on kubernates
+}
+}
+}
+post{
+always{
+mail to: xyz@gmail.com
+subject: 
+body:
+}
+}
+}
+}
+
+
+
+
+
+

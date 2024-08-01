@@ -1,0 +1,28 @@
+jyanna jast vel unhat javekivva rahave lagte asha lokanche kes dry ani rough hotat. mhanun unhat jatanna hair cap athava dupatta lapeetun gyava tachech kes dhutalyananter prateyak 
+veli hair serum lavave. tyamule kesanna pradushan, dhul, ani unhapasun saurakshan karte.ani kes dry, rough, ani damage hot nahi..
+	Java's first name is "green".
+	Firstly java is discovered by James Gosling from Sun Microsystem in 1991.
+	The name of Java language is "oak'. Oak is name of tree which is popular for or we can say that symbol of strength, and oak is national tree of many countries.
+	Java is a general purpose language or we can call it object oriented language.
+	Java is a programming language we can used many plateforms it is a platform independent language.
+	Java language is used in software as well as hardware. In software it is used in design and developed the application.And in hardware it is used in run the application.
+	James gosling promise one thing to the world that is (WORA) "write once run anywhere".
+	Java is a programing language created by James gosling from sun microsystem in 1991. 
+	The First publicly available version of java is(Java 1.0) was published in 1996.
+	Sun microsystem was acquired by Oracal corporation in 2010.
+	The current version of java is (1.8) which is also cla java 8.
+	Desk top application 
+	Web application 
+	Mobile -Android 
+	Roboticks 
+	Big data 
+	Games 
+	Embeded system 
+	Enterprises application 
+	J2SE = Java to standerd edition.
+	J2ME = Java to micro edition.
+	J2EE = Java to enterprice edition.
+	
+	J2ME = Desktop application => microsoft office ,p.p , exel. 
+	J2EE = Banking application , e- commerce , telecom , ola , uber ete.
+	J2SE = Mobile , laptop , games , calculatur.  
